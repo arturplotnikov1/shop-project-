@@ -74,11 +74,11 @@ body {
     color: white;
 }
 
-/* .search-field {
+.search-field {
     background-color: transparent;
 }
 
 .search-field:focus {
     border: none;
     outline: none;
-} */
+}
